@@ -93,4 +93,4 @@ def scrape_linkedin_hashtag(email, password, hashtag, max_scroll=5, max_pages=5)
         driver.quit()
 
 # Example usage:
-scrape_linkedin_hashtag('heatpubg281q@gmail.com', 'Pratham_1234', 'ai4conference', max_scroll=5, max_pages=5)
+scrape_linkedin_hashtag('', '', 'ai4conference', max_scroll=5, max_pages=5)
